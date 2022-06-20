@@ -15,7 +15,7 @@
 baseURL = "https://nanaliu.netlify.app/"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
-title = "Nanaliu's Homepage"
+title = "Na Homepage"
 theme = "hugo-tranquilpeak-theme"
 disqusShortname = "joyfulhome"
 googleAnalytics = "UA-43536203-1"
@@ -100,7 +100,7 @@ canonifyurls = true
   # If false it will flat categories.
   hierarchicalCategories = false
 
-  description = "Yixuan's blogs on statistcs, programming, and more"
+  description = "Na blogs"
 
   # Customization
   # Define the behavior of the sidebar
@@ -169,7 +169,7 @@ canonifyurls = true
 
   # Customize copyright value "© 2016 <CUSTOMIZATION>. All Rights Reserved"
   [params.footer]
-    copyright = "Yixuan Qiu | Theme modified from <a href=\"https://github.com/kakawait/hugo-tranquilpeak-theme\">Tranquilpeak</a>"
+    copyright = "Na Liu | Theme modified from <a href=\"https://github.com/yixuan/hugo-blog-en\">Tranquilpeak</a>"
 
 # Set Markdown engine to allow raw HTML
 [markup]
